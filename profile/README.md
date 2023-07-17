@@ -1,7 +1,7 @@
 ![header-banner](https://repository-images.githubusercontent.com/665914756/38cd4d2d-6700-464a-aa2f-366be4f4fd5e)
 
 ## 👋 About us
-ParceBot is the first and only Discord Bot that tracks your parcels and notifies you of changes directly in your DMs.
+ParcelBot is the first and only Discord Bot that tracks your parcels and notifies you of changes directly in your DMs.
 
 ## 📚 How to use it ? [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/s2kk.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 https://parcelbot.xyz/how-does-it-work

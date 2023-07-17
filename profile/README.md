@@ -8,7 +8,7 @@ https://parcelbot.xyz/how-does-it-work
 
 ## 👉 Join the community/support
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4dTWdnPEXU)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kakarot)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/parcelbot)
 
 ## 👨‍💻 Meet the team
 <p align="center">
